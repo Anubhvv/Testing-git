@@ -1,3 +1,2 @@
-# Testing-git
-testing git commands
-This i smy first github proj
+1) Google homepage clone: https://codepen.io/anubhvv/full/PoGJBGO
+
